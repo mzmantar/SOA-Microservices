@@ -13,8 +13,8 @@ Ce projet permet de récupérer les données météorologiques de la ville de **
 1. **Cloner le projet**
 
 ```sh
-git clone https://github.com/ton-repo/meteo-nodejs.git
-cd meteo-nodejs
+git clone https://github.com/mzmantar/SOA-Microservices.git
+cd TP1
 ```
 
 2. **Installer les dépendances**
