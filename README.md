@@ -30,20 +30,7 @@ npm install request axios node-fetch
 ### Exécuter avec `request`
 
 ```sh
-node meteo-request.js
-```
-
-### Exécuter avec `fetch`
-
-```sh
-node meteo-fetch.js
-```
-
-### Exécuter avec `axios`
-
-```sh
-node meteo-axios.js
-```
+node index.js
 
 ## 📊 Résultat attendu (exemple)
 
