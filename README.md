@@ -20,7 +20,7 @@ cd meteo-nodejs
 2. **Installer les dépendances**
 
 ```sh
-npm install request axios node-fetch
+npm install request
 ```
 
 3. **Remplacer** `"votre_clé_api"` par **votre clé API réelle** dans les fichiers `.js`.
