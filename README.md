@@ -57,7 +57,7 @@ Exemple de `keycloak-config.json` :
 
 ## 🎯 Lancer le serveur
 ```sh
-node server.js
+node index.js
 ```
 Le serveur tourne sur `http://localhost:3000`.
 
