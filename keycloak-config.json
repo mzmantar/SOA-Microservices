@@ -1,0 +1,14 @@
+{
+  "realm": "api-realm",
+  "auth-server-url": "http://localhost:8080/",
+  "ssl-required": "external",
+  "resource": "api-personne",
+  "verify-token-audience": false,
+  "credentials": {
+    "secret": "TdKaT5LJGifP7VGwuC5bJzvX5r3Al1L0"
+  },
+  "confidential-port": 0,
+  "policy-enforcer": {
+    "credentials": {}
+  }
+}
