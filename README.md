@@ -8,8 +8,8 @@ L'accès aux routes est sécurisé avec **Keycloak**.
 
 ### 📂 1. Cloner le dépôt
 ```sh
-git clone https://github.com/votre-repo.git
-cd votre-repo
+git clone https://github.com/mzmantar/SOA-Microservices.git
+cd TP2
 ```
 
 ### 🛠 2. Installer les dépendances
