@@ -22,8 +22,8 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants :
 1. 🛠️ Clonez ce repository :
 
    ```sh
-   git clone <URL_DU_REPO>
-   cd <NOM_DU_REPO>
+   git clone https://github.com/mzmantar/SOA-Microservices.git
+   cd TP4
    ```
 
 2. 📌 Initialisez un projet Node.js :
@@ -58,10 +58,11 @@ gRPC Server running on port 50051
 3. 📂 Importer `hello.proto`.
 4. 📢 Sélectionner le service **Greeter** et la méthode **SayHello**.
 5. 📤 Envoyer un JSON comme :
+   
    ```json
    { "name": "TestUser" }
    ```
-6. ✅ Vous devriez recevoir une réponse :
+7. ✅ Vous devriez recevoir une réponse :
    ```json
    { "message": "Hello, TestUser!" }
    ```
